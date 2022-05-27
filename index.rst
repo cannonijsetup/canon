@@ -8,7 +8,7 @@ Canon is one such website which provides you a safe and reliable platform to dow
 
 |
 
-.. image:: https://github.com/cannonijsetup/canon/blob/main/get-started-button-png.png
+.. image:: https://github.com/cannonijsetup/canon/blob/main/get_started-black_button-removebg-preview.png
 	:width: 300px    
 	:align: center    
 	:height: 100px    
