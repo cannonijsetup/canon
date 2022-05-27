@@ -3,7 +3,7 @@
 Canon.com/ijsetup |  Setup Canon Printer On Windows & Mac | Canon com ijsetup 
 #############
 
-Canon is one such website which provides you a safe and reliable platform to download driver. There is a web address for the Canon printer driver window to print directly from your computer. It is a one-stop platform for all printer driver needs and requirements. To get more information visit the given website canon.com/ijsetup.
+Canon is one such website which provides you a safe and reliable platform to download driver. There is a web address for the Canon printer driver window to print directly from your computer. It is a one-stop platform for all printer driver needs and requirements. To get more information visit the given website `canon.com/ijsetup <https://cannon-ijsetup.readthedocs.io/en/latest/index.html>`_.
 
 |
 
@@ -23,13 +23,13 @@ Easy Procedure to Download Canon IJ Printer Driver
 *************
 
 * First you have to open a web browser.
-* After that, type canon.com/ijsetup in the address bar and press the Enter key with your keyboard.
+* After that, type `canon.com/ijsetup <https://cannon-ijsetup.readthedocs.io/en/latest/index.html>`_ in the address bar and press the Enter key with your keyboard.
 * Click on the Canon Printer Setup tab.
 * Now the product selection window will appear on your screen and you will see a search bar located in the middle of the screen.
 * You have to type your product model number in the search field and then click on the Go button given there.
 * Select your preferred operating system. Then, click on the download button given there to get the recommended software for your printer.
 * When the setup file is downloaded successfully, it will be automatically saved in the Downloads folder.
-* This completes the printer driver download process from canon.com/ijsetup.
+* This completes the printer driver download process from **canon com ijsetup**.
 
 *************
 Canon Printer Driver Installation
@@ -43,26 +43,26 @@ Windows
 
 * Begin the installation process by locating the downloaded Canon setup file.
 * Double-click on the driver software file and open it.
-* Allow the "User Account Control" window when prompted by clicking the "Yes" button.
-* You will be asked to agree to its terms and conditions. Click "I agree" to continue with the installation process.
+* Allow the "User Account Control" window when prompted by clicking the **"Yes"** button.
+* You will be asked to agree to its terms and conditions. Click **"I agree"** to continue with the installation process.
 * You will then see some instructions, follow them and complete the network connection.
 * Then, wait for the process to complete successfully.
-* Finally, click "Exit" on the "Installation Complete" window.
+* Finally, click **"Exit"** on the "Installation Complete" window.
 * Lastly, restart your computer to complete the canon.com/ijsetup process.
 
 ===========
 Mac
 ===========
 
-* Begin the canon.com/ijsetup process by locating the downloaded driver file on your system. And double click the driver software file to run.
-* You will get a security warning pop-up box. So, click on canon.com/ijsetup.
+* Begin the **canon.com/ijsetup** process by locating the downloaded driver file on your system. And double click the driver software file to run.
+* You will get a security warning pop-up box. So, click on `canon.com/ijsetup <https://cannon-ijsetup.readthedocs.io/en/latest/index.html>`_.
 * Now, click on "Yes/Continue" on the welcome window of the installer.
 * Next, the "Software License Agreement" window will appear on your screen. Click "Continue" to proceed.
-* Finally, click "Install" on the following "Installation" window.
-* After that, type your "Mac Administrator User ID and Password" on the following pop-up box.
+* Finally, click **"Install"** on the following **"Installation"** window.
+* After that, type your **"Mac Administrator User ID and Password"** on the following pop-up box.
 * Then, click "Install Software".
-* This will start the installation process for canon.com/ijsetup. So, wait for the same.
-* Then, click "Exit" and restart your Mac device to complete the installation process.
+* This will start the installation process for **canon com ijsetup**. So, wait for the same.
+* Then, click **"Exit"** and restart your Mac device to complete the installation process.
 
 *************
 Conditions required for Installation of Canon Printer Setup
@@ -70,7 +70,7 @@ Conditions required for Installation of Canon Printer Setup
 
 * Before purchasing a Canon printer setup, make sure the driver supports your system.
 * Make sure your system has enough space to install the driver.
-* If you are using an older version of the model number on your system, either replace it or reinstall it from the canon.com/ijsetup website.
+* If you are using an older version of the model number on your system, either replace it or reinstall it from the `canon.com/ijsetup <https://cannon-ijsetup.readthedocs.io/en/latest/index.html>`_ website.
 * If you're already a user of Canon printer setup, all you need to do is update it.
 * If you are using any other operating driver then uninstall the other driver and then install the newer version of canon ij setup driver.
 
