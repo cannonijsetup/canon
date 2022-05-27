@@ -5,17 +5,18 @@ Canon.com/ijsetup |  Setup Canon Printer On Windows & Mac | Canon com ijsetup
 
 Canon is one such website which provides you a safe and reliable platform to download driver. There is a web address for the Canon printer driver window to print directly from your computer. It is a one-stop platform for all printer driver needs and requirements. To get more information visit the given website canon.com/ijsetup.
 
-
 |
 
-.. image:: https://github.com/cannonijsetup/canon/blob/main/get_started-black_button-removebg-preview.png
-	:width: 300px    
-	:align: center    
-	:height: 100px    
-	:alt: Canon.com/ijsetup    
-	:target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
-
+.. image:: get-started-today.png
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: Canon.com/ijsetup
+    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    
 |
+
+
 
 *************
 Easy Procedure to Download Canon IJ Printer Driver
